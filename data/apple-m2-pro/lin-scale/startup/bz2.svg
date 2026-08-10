@@ -4,7 +4,7 @@
 startup/bz2
 </text>
 <line opacity="0.1" stroke="#000000" stroke-width="1" x1="405" y1="1524" x2="405" y2="76"/>
-<line opacity="0.1" stroke="#000000" stroke-width="1" x1="945" y1="1524" x2="945" y2="76"/>
+<line opacity="0.1" stroke="#000000" stroke-width="1" x1="941" y1="1524" x2="941" y2="76"/>
 <text x="5" y="800" dy="0.76em" text-anchor="middle" font-family="sans-serif" font-size="28.225806451612904" opacity="1" fill="#000000" transform="rotate(270, 5, 800)">
 
 </text>
@@ -12,7 +12,7 @@ startup/bz2
 Time (lower is better, linear scale)
 </text>
 <line opacity="0.15" stroke="#000000" stroke-width="1" x1="405" y1="1524" x2="405" y2="76"/>
-<line opacity="0.15" stroke="#000000" stroke-width="1" x1="945" y1="1524" x2="945" y2="76"/>
+<line opacity="0.15" stroke="#000000" stroke-width="1" x1="941" y1="1524" x2="941" y2="76"/>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="404,76 404,1524 "/>
 <text x="395" y="1499" dy="0.5ex" text-anchor="end" font-family="sans-serif" font-size="24.193548387096776" opacity="1" fill="#000000">
 Wasmtime (Pulley)
@@ -39,15 +39,15 @@ Wasmer (Singlepass)
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="399,1250 404,1250 "/>
 <text x="395" y="1200" dy="0.5ex" text-anchor="end" font-family="sans-serif" font-size="24.193548387096776" opacity="1" fill="#000000">
-WAMR fast-interpreter
+Silverfir-nano (interpreter)
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="399,1200 404,1200 "/>
 <text x="395" y="1150" dy="0.5ex" text-anchor="end" font-family="sans-serif" font-size="24.193548387096776" opacity="1" fill="#000000">
-Silverfir-nano (interpreter)
+Wasm3 (eager)
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="399,1150 404,1150 "/>
 <text x="395" y="1100" dy="0.5ex" text-anchor="end" font-family="sans-serif" font-size="24.193548387096776" opacity="1" fill="#000000">
-Wasm3 (eager)
+WAMR fast-interpreter
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="399,1100 404,1100 "/>
 <text x="395" y="1050" dy="0.5ex" text-anchor="end" font-family="sans-serif" font-size="24.193548387096776" opacity="1" fill="#000000">
@@ -111,11 +111,11 @@ Wasmi v2 (lazy-translation)
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="399,351 404,351 "/>
 <text x="395" y="301" dy="0.5ex" text-anchor="end" font-family="sans-serif" font-size="24.193548387096776" opacity="1" fill="#000000">
-Wasm3 (lazy)
+Wasmi v2 (lazy)
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="399,301 404,301 "/>
 <text x="395" y="251" dy="0.5ex" text-anchor="end" font-family="sans-serif" font-size="24.193548387096776" opacity="1" fill="#000000">
-Wasmi v2 (lazy)
+Wasm3 (lazy)
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="399,251 404,251 "/>
 <text x="395" y="201" dy="0.5ex" text-anchor="end" font-family="sans-serif" font-size="24.193548387096776" opacity="1" fill="#000000">
@@ -135,124 +135,124 @@ Wasmi v1 (lazy, unchecked)
 0.00 ns
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="405,1525 405,1530 "/>
-<text x="945" y="1535" dy="0.76em" text-anchor="middle" font-family="sans-serif" font-size="16.129032258064516" opacity="1" fill="#000000">
+<text x="941" y="1535" dy="0.76em" text-anchor="middle" font-family="sans-serif" font-size="16.129032258064516" opacity="1" fill="#000000">
 50.00 ms
 </text>
-<polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="945,1525 945,1530 "/>
-<rect x="405" y="1290" width="55" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="840" width="9" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="541" width="4" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1390" width="570" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="1340" width="430" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="1140" width="21" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="241" width="0" height="20" opacity="1" fill="#E3923F" stroke="none"/>
+<polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="941,1525 941,1530 "/>
 <rect x="405" y="591" width="6" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="191" width="0" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="341" width="3" height="20" opacity="1" fill="#E3923F" stroke="none"/>
-<rect x="405" y="1090" width="19" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="491" width="4" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="91" width="0" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1390" width="565" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="1340" width="443" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <rect x="405" y="990" width="14" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="391" width="3" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1440" width="570" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="691" width="7" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="641" width="7" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="791" width="8" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1240" width="44" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="1190" width="22" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="741" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="291" width="0" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="191" width="0" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1190" width="21" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="91" width="0" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="541" width="4" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="341" width="3" height="20" opacity="1" fill="#E3923F" stroke="none"/>
+<rect x="405" y="641" width="6" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="241" width="0" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1240" width="45" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <rect x="405" y="1490" width="637" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="940" width="12" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="441" width="4" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1140" width="20" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="1040" width="18" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="291" width="0" height="20" opacity="1" fill="#E3923F" stroke="none"/>
 <rect x="405" y="890" width="11" height="20" opacity="1" fill="#E3923F" stroke="none"/>
+<rect x="405" y="840" width="9" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1090" width="20" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="691" width="7" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="491" width="4" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="391" width="3" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="141" width="0" height="20" opacity="1" fill="#E3923F" stroke="none"/>
+<rect x="405" y="741" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="1440" width="567" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="1290" width="56" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="791" width="8" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
 <text x="1052" y="1501" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-58.95 ms
+59.40 ms
 </text>
-<text x="985" y="1452" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-52.83 ms
+<text x="982" y="1452" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
+52.93 ms
 </text>
-<text x="985" y="1402" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-52.81 ms
+<text x="980" y="1402" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
+52.73 ms
 </text>
-<text x="845" y="1352" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-39.84 ms
+<text x="858" y="1352" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
+41.39 ms
 </text>
-<text x="470" y="1302" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-5.13 ms
+<text x="471" y="1302" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
+5.31 ms
 </text>
-<text x="459" y="1252" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-4.14 ms
+<text x="460" y="1252" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
+4.20 ms
 </text>
-<text x="437" y="1202" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-2.07 ms
+<text x="436" y="1202" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
+2.03 ms
 </text>
-<text x="436" y="1152" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-1.95 ms
+<text x="435" y="1152" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
+1.89 ms
 </text>
-<text x="434" y="1102" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-1.79 ms
+<text x="435" y="1102" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
+1.87 ms
 </text>
 <text x="433" y="1052" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-1.74 ms
+1.75 ms
 </text>
 <text x="429" y="1002" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-1.33 ms
+1.37 ms
 </text>
 <text x="427" y="952" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-1.15 ms
+1.14 ms
 </text>
 <text x="426" y="902" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 1.08 ms
 </text>
 <text x="424" y="852" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-869.34 µs
+856.64 µs
 </text>
 <text x="423" y="802" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-782.50 µs
+788.21 µs
 </text>
 <text x="423" y="753" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-745.48 µs
+745.83 µs
 </text>
 <text x="422" y="703" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-664.05 µs
+668.16 µs
 </text>
-<text x="422" y="653" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-649.53 µs
+<text x="421" y="653" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
+641.95 µs
 </text>
 <text x="421" y="603" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-567.92 µs
+592.34 µs
 </text>
 <text x="419" y="553" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-451.08 µs
+452.37 µs
 </text>
 <text x="419" y="503" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-445.29 µs
+442.67 µs
 </text>
 <text x="419" y="453" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-425.09 µs
+410.44 µs
 </text>
 <text x="418" y="403" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-346.66 µs
+354.34 µs
 </text>
 <text x="418" y="353" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-338.64 µs
+344.82 µs
 </text>
 <text x="415" y="303" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-55.13 µs
+60.44 µs
 </text>
 <text x="415" y="253" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-52.52 µs
+54.81 µs
 </text>
 <text x="415" y="203" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-51.20 µs
+52.62 µs
 </text>
 <text x="415" y="153" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-42.71 µs
+45.36 µs
 </text>
 <text x="415" y="103" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-42.25 µs
+43.56 µs
 </text>
 </svg>
