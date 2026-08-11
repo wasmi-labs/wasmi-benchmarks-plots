@@ -1,7 +1,7 @@
 <svg width="1280" height="1155" viewBox="0 0 1280 1155" xmlns="http://www.w3.org/2000/svg">
 <rect x="0" y="0" width="1280" height="1155" opacity="1" fill="#FFFFFF" stroke="none"/>
 <text x="640" y="10" dy="0.76em" text-anchor="middle" font-family="monospace" font-size="36.29032258064516" opacity="1" fill="#000000">
-execute/counter-param
+execute/counter-param - AMD EPYC 7763
 </text>
 <line opacity="0.1" stroke="#000000" stroke-width="1" x1="405" y1="1074" x2="405" y2="76"/>
 <line opacity="0.1" stroke="#000000" stroke-width="1" x1="802" y1="1074" x2="802" y2="76"/>
@@ -103,26 +103,26 @@ Wasmer (Cranelift)
 50.00 ms
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="802,1075 802,1080 "/>
-<rect x="405" y="840" width="76" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="541" width="42" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="890" width="133" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="990" width="294" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="940" width="276" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="690" width="53" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="241" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="491" width="39" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="291" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="191" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="141" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="591" width="44" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="640" width="46" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="990" width="294" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="890" width="133" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="840" width="76" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="341" width="9" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="91" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="790" width="66" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="740" width="54" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="191" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <rect x="405" y="391" width="9" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="141" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="291" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="491" width="39" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="441" width="20" height="20" opacity="1" fill="#E3923F" stroke="none"/>
+<rect x="405" y="91" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="740" width="54" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="690" width="53" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="640" width="46" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="1040" width="637" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="241" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="790" width="66" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="591" width="44" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="541" width="42" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <text x="1052" y="1051" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 80.06 ms
 </text>

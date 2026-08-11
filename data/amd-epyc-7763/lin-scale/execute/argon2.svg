@@ -1,7 +1,7 @@
 <svg width="1280" height="1255" viewBox="0 0 1280 1255" xmlns="http://www.w3.org/2000/svg">
 <rect x="0" y="0" width="1280" height="1255" opacity="1" fill="#FFFFFF" stroke="none"/>
 <text x="640" y="10" dy="0.76em" text-anchor="middle" font-family="monospace" font-size="36.29032258064516" opacity="1" fill="#000000">
-execute/argon2
+execute/argon2 - AMD EPYC 7763
 </text>
 <line opacity="0.1" stroke="#000000" stroke-width="1" x1="405" y1="1174" x2="405" y2="76"/>
 <line opacity="0.1" stroke="#000000" stroke-width="1" x1="670" y1="1174" x2="670" y2="76"/>
@@ -117,28 +117,28 @@ V8
 10.00 s
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="935,1175 935,1180 "/>
-<rect x="405" y="91" width="1" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="790" width="83" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1140" width="637" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="890" width="91" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="341" width="4" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="241" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="1090" width="284" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="740" width="42" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="641" width="36" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1040" width="237" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="940" width="168" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="541" width="34" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="91" width="1" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="1040" width="237" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1140" width="637" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="990" width="185" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="491" width="33" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="291" width="4" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="890" width="91" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="690" width="42" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="641" width="36" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="141" width="1" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="591" width="34" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="391" width="21" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="191" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="141" width="1" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="690" width="42" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="591" width="34" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="840" width="84" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1090" width="284" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="491" width="33" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="441" width="23" height="20" opacity="1" fill="#E3923F" stroke="none"/>
+<rect x="405" y="341" width="4" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="840" width="84" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="291" width="4" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="790" width="83" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="740" width="42" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="241" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="541" width="34" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <text x="1052" y="1151" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 12.01 s
 </text>
