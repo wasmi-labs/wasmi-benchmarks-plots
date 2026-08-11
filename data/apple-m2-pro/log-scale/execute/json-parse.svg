@@ -1,7 +1,7 @@
 <svg width="1280" height="1255" viewBox="0 0 1280 1255" xmlns="http://www.w3.org/2000/svg">
 <rect x="0" y="0" width="1280" height="1255" opacity="1" fill="#FFFFFF" stroke="none"/>
 <text x="640" y="10" dy="0.76em" text-anchor="middle" font-family="monospace" font-size="36.29032258064516" opacity="1" fill="#000000">
-execute/json-parse
+execute/json-parse - Apple M2 Pro
 </text>
 <line opacity="0.1" stroke="#000000" stroke-width="1" x1="485" y1="1174" x2="485" y2="76"/>
 <line opacity="0.1" stroke="#000000" stroke-width="1" x1="753" y1="1174" x2="753" y2="76"/>
@@ -118,27 +118,27 @@ Silverfir-nano (JIT)
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="1020,1175 1020,1180 "/>
 <rect x="405" y="990" width="582" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="391" width="333" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1040" width="640" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="740" width="476" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="790" width="513" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="341" width="205" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="291" width="197" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <rect x="405" y="241" width="98" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="1140" width="663" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="441" width="352" height="20" opacity="1" fill="#E3923F" stroke="none"/>
-<rect x="405" y="940" width="573" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="840" width="516" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="690" width="458" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="641" width="438" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="191" width="96" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="141" width="93" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="91" width="80" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="890" width="527" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="491" width="392" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="591" width="422" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="790" width="513" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="1090" width="644" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="690" width="458" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="291" width="197" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <rect x="405" y="541" width="402" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="391" width="333" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="890" width="527" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="141" width="93" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="1040" width="640" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="641" width="438" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="441" width="352" height="20" opacity="1" fill="#E3923F" stroke="none"/>
+<rect x="405" y="591" width="422" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1140" width="663" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="341" width="205" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="191" width="96" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="491" width="392" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="940" width="573" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="91" width="80" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="840" width="516" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <text x="1078" y="1151" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 x150.55
 </text>

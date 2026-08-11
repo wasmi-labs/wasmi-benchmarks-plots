@@ -1,7 +1,7 @@
 <svg width="1280" height="1155" viewBox="0 0 1280 1155" xmlns="http://www.w3.org/2000/svg">
 <rect x="0" y="0" width="1280" height="1155" opacity="1" fill="#FFFFFF" stroke="none"/>
 <text x="640" y="10" dy="0.76em" text-anchor="middle" font-family="monospace" font-size="36.29032258064516" opacity="1" fill="#000000">
-execute/counter-param
+execute/counter-param - Apple M2 Pro
 </text>
 <line opacity="0.1" stroke="#000000" stroke-width="1" x1="405" y1="1074" x2="405" y2="76"/>
 <line opacity="0.1" stroke="#000000" stroke-width="1" x1="709" y1="1074" x2="709" y2="76"/>
@@ -109,26 +109,26 @@ Silverfir-nano (JIT)
 20.00 ms
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="1014,1075 1014,1080 "/>
-<rect x="405" y="541" width="102" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="291" width="15" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="341" width="30" height="20" opacity="1" fill="#E3923F" stroke="none"/>
-<rect x="405" y="1040" width="637" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="591" width="108" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="241" width="10" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="191" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="141" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="491" width="89" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="840" width="220" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="890" width="359" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="441" width="62" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <rect x="405" y="940" width="575" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="91" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="740" width="170" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="640" width="114" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="690" width="143" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="990" width="608" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="391" width="33" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="191" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="441" width="62" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="990" width="608" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="291" width="15" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="491" width="89" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="241" width="10" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="91" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="541" width="102" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="591" width="108" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="341" width="30" height="20" opacity="1" fill="#E3923F" stroke="none"/>
+<rect x="405" y="890" width="359" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="840" width="220" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1040" width="637" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="141" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="690" width="143" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="740" width="170" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="790" width="182" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="640" width="114" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <text x="1052" y="1051" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 20.91 ms
 </text>
