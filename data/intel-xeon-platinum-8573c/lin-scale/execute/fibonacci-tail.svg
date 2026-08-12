@@ -79,20 +79,20 @@ V8
 100.00 ms
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="750,775 750,780 "/>
-<rect x="405" y="391" width="59" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="241" width="26" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="191" width="3" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="640" width="239" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="690" width="328" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="441" width="71" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="540" width="85" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="291" width="34" height="20" opacity="1" fill="#E3923F" stroke="none"/>
-<rect x="405" y="490" width="78" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="141" width="2" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="341" width="53" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="441" width="71" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="391" width="59" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="640" width="239" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="241" width="26" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="690" width="328" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="91" width="1" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="740" width="637" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="590" width="89" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="740" width="637" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="490" width="78" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="341" width="53" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="291" width="34" height="20" opacity="1" fill="#E3923F" stroke="none"/>
+<rect x="405" y="540" width="85" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <text x="1052" y="751" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 184.42 ms
 </text>
