@@ -113,27 +113,27 @@ Silverfir-nano (JIT)
 20.00 ms
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="1014,1125 1014,1130 "/>
-<rect x="405" y="541" width="89" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="990" width="575" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="890" width="220" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="341" width="30" height="20" opacity="1" fill="#E3923F" stroke="none"/>
-<rect x="405" y="291" width="15" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="241" width="10" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="91" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="441" width="62" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="391" width="33" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="591" width="102" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="790" width="170" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="141" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="840" width="182" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="740" width="143" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="491" width="67" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="690" width="114" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="191" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="541" width="88" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="640" width="108" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="441" width="62" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="790" width="170" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="990" width="575" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="1040" width="608" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="1090" width="637" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="291" width="15" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="191" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <rect x="405" y="940" width="359" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="141" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="491" width="67" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="91" width="8" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="241" width="10" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="740" width="143" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="840" width="182" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="591" width="102" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="391" width="33" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="341" width="30" height="20" opacity="1" fill="#E3923F" stroke="none"/>
 <text x="1052" y="1101" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 20.91 ms
 </text>
@@ -167,8 +167,8 @@ Silverfir-nano (JIT)
 <text x="517" y="602" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 3.38 ms
 </text>
-<text x="504" y="553" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-2.95 ms
+<text x="503" y="553" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
+2.89 ms
 </text>
 <text x="482" y="503" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 2.20 ms

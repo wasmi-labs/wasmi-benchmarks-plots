@@ -121,29 +121,29 @@ V8
 2.00 s
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="877,1225 877,1230 "/>
-<rect x="405" y="990" width="325" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="441" width="54" height="20" opacity="1" fill="#E3923F" stroke="none"/>
+<rect x="405" y="141" width="5" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="690" width="104" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1140" width="532" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="291" width="14" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="790" width="165" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="940" width="229" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="391" width="37" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="591" width="79" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="541" width="77" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="740" width="106" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1190" width="637" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="641" width="101" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="890" width="204" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="840" width="176" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="391" width="37" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1140" width="532" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="341" width="16" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="91" width="5" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="591" width="79" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="790" width="165" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="141" width="5" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="740" width="106" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="241" width="5" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="191" width="5" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="491" width="69" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1190" width="637" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="541" width="77" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1040" width="414" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="641" width="101" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="690" width="104" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="940" width="229" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="441" width="54" height="20" opacity="1" fill="#E3923F" stroke="none"/>
 <rect x="405" y="1090" width="504" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="341" width="16" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="191" width="5" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="91" width="5" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="1040" width="414" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="990" width="325" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="491" width="69" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="241" width="5" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <text x="1052" y="1201" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 2.70 s
 </text>
@@ -187,7 +187,7 @@ V8
 328.75 ms
 </text>
 <text x="484" y="503" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-295.56 ms
+295.31 ms
 </text>
 <text x="469" y="453" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 231.69 ms

@@ -115,29 +115,29 @@ Wasmtime (Cranelift)
 10.0
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="804,1225 804,1230 "/>
+<rect x="405" y="291" width="140" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="990" width="585" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="890" width="517" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="341" width="158" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="641" width="383" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="441" width="303" height="20" opacity="1" fill="#E3923F" stroke="none"/>
-<rect x="405" y="391" width="269" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="790" width="447" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="740" width="408" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="141" width="93" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <rect x="405" y="591" width="371" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="940" width="519" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="541" width="367" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="391" width="269" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1040" width="594" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="241" width="96" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="91" width="92" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="1190" width="662" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="840" width="516" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="790" width="447" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1090" width="647" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="1140" width="647" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="191" width="95" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="341" width="158" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="541" width="367" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="940" width="519" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1090" width="647" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="141" width="93" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="91" width="92" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="1040" width="594" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="740" width="408" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="690" width="399" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1190" width="662" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="890" width="517" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="291" width="140" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="241" width="96" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="641" width="383" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="491" width="364" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="990" width="585" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="840" width="516" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <text x="1077" y="1201" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 x71.83
 </text>

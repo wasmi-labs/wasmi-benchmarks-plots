@@ -115,29 +115,29 @@ Silverfir-nano (JIT)
 1.00 s
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="806,1225 806,1230 "/>
-<rect x="405" y="790" width="170" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="141" width="3" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="91" width="3" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="1190" width="637" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="890" width="242" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="391" width="42" height="20" opacity="1" fill="#E3923F" stroke="none"/>
-<rect x="405" y="840" width="220" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="641" width="98" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="740" width="120" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="1040" width="423" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="690" width="117" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="940" width="244" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="291" width="17" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="191" width="3" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="491" width="49" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1140" width="625" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="591" width="76" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="241" width="3" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="491" width="48" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="341" width="28" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="441" width="47" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="940" width="244" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="391" width="42" height="20" opacity="1" fill="#E3923F" stroke="none"/>
+<rect x="405" y="790" width="170" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="740" width="120" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <rect x="405" y="541" width="55" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="1090" width="601" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1190" width="637" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="641" width="98" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="241" width="3" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <rect x="405" y="990" width="406" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="191" width="3" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="840" width="220" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="91" width="3" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="591" width="76" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="441" width="47" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="141" width="3" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="1140" width="625" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1040" width="423" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="291" width="17" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <text x="1052" y="1201" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 1.59 s
 </text>
@@ -180,8 +180,8 @@ Silverfir-nano (JIT)
 <text x="470" y="553" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 138.06 ms
 </text>
-<text x="464" y="503" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
-122.35 ms
+<text x="463" y="503" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
+121.10 ms
 </text>
 <text x="462" y="453" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 117.65 ms
