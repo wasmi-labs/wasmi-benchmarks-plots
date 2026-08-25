@@ -93,22 +93,22 @@ Silverfir-nano (JIT)
 100.0
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="967,875 967,880 "/>
-<rect x="405" y="590" width="497" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="291" width="401" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="740" width="608" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="690" width="578" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="441" width="479" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="191" width="179" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="441" width="479" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="391" width="477" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="540" width="494" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="91" width="73" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="241" width="349" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="790" width="625" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="640" width="509" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="491" width="488" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="341" width="445" height="20" opacity="1" fill="#E3923F" stroke="none"/>
-<rect x="405" y="840" width="663" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="291" width="401" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="790" width="625" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="640" width="509" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="590" width="497" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="241" width="349" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="91" width="73" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <rect x="405" y="141" width="87" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="840" width="663" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="690" width="578" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="740" width="608" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="540" width="494" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <text x="1078" y="851" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 x258.75
 </text>

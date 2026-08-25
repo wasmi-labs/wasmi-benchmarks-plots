@@ -121,29 +121,29 @@ Silverfir-nano (JIT)
 100.0
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="933,1225 933,1230 "/>
-<rect x="405" y="1190" width="664" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="391" width="353" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="890" width="553" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1090" width="649" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="790" width="491" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="690" width="449" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="840" width="536" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="191" width="171" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="491" width="412" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="341" width="258" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="591" width="424" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="641" width="440" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="1040" width="616" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="740" width="464" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="541" width="420" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="990" width="611" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="241" width="174" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <rect x="405" y="141" width="158" height="20" opacity="1" fill="#3477BA" stroke="none"/>
-<rect x="405" y="940" width="554" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
-<rect x="405" y="441" width="381" height="20" opacity="1" fill="#E3923F" stroke="none"/>
-<rect x="405" y="291" width="242" height="20" opacity="1" fill="#3477BA" stroke="none"/>
 <rect x="405" y="91" width="69" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="890" width="553" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="591" width="424" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="491" width="412" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="541" width="420" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1090" width="649" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="740" width="464" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="191" width="171" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="641" width="440" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="391" width="353" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <rect x="405" y="1140" width="651" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="940" width="554" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="1040" width="616" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="291" width="242" height="20" opacity="1" fill="#3477BA" stroke="none"/>
+<rect x="405" y="790" width="491" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="441" width="381" height="20" opacity="1" fill="#E3923F" stroke="none"/>
+<rect x="405" y="1190" width="664" height="19" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="990" width="611" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="690" width="449" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
+<rect x="405" y="840" width="536" height="20" opacity="1" fill="#4CA18F" stroke="none"/>
 <text x="1079" y="1201" dy="0.5ex" text-anchor="start" font-family="monospace" font-size="17.741935483870968" opacity="1" fill="#000000">
 x391.76
 </text>
